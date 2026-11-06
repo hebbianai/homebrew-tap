@@ -1,6 +1,6 @@
 cask "catchtype" do
-  version "0.3.0-beta.18"
-  sha256 "3105efaa627e88ba51786e39457888bef02363822e24fdee044906cd658ec5b9"
+  version "0.3.0-beta.19"
+  sha256 "77bc2bcc3f4803867ca82b10ff5303d93579b33ca5afee9700f2c4b3b06cdc20"
 
   url "https://catchtype.com/download/Catchtype-#{version}.dmg"
   name "Catchtype"
