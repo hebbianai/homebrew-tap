@@ -1,6 +1,6 @@
 cask "dure" do
-  version "0.2.63"
-  sha256 "51bcde20b63793d6fd31aa533d48301a885738664e3f7014cabfe864c603a5ff"
+  version "0.2.68"
+  sha256 "96937b58891d01c65ae2b1e1510f726f24ff65d612d0a5443c4b4f2dce6d9c75"
 
   url "https://github.com/hebbianai/dure/releases/download/v#{version}/Dure_#{version}_aarch64.dmg"
   name "Dure"
