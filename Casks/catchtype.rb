@@ -29,8 +29,10 @@ cask "catchtype" do
   ]
 
   caveats <<~EOS
-    Catchtype needs Accessibility permission to fix keys typed into other apps.
+    Catchtype needs a macOS permission to fix keys typed into other apps.
     Open Catchtype once, then turn it on in
+      System Settings > Privacy & Security > Device Control and Data Access (macOS 27)
+    or, on macOS 26 and earlier, in
       System Settings > Privacy & Security > Accessibility
   EOS
 end
